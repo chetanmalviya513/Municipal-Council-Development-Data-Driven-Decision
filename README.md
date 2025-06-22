@@ -1,6 +1,6 @@
 📊 Municipal Council Development: Data-Driven Insights for Nagar Parishad Bistan
 
-Technologies Used: Advanced Excel | Python (Pandas, PDF Parsing) | Tableau | Power BI | Statistics | Project Management
+Technologies Used: Advanced Excel | Tableau | Power BI | Statistics | Project Management
 
 🔍 Overview
 This project focuses on transforming semi-structured population data from Nagar Parishad Bistan (MP) into interactive dashboards to enable data-driven decision-making. Extracted from Hindi PDF files, the raw data was cleaned, translated, and visualized using both Power BI and Tableau to support efficient urban planning and governance.
