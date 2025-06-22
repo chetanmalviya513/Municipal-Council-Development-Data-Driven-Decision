@@ -27,7 +27,7 @@ Comparative Views to identify resource gaps across different wards.
 
 Color-Coded Maps for quick understanding of population density and distribution.
 
-🔗 Live Tableau Dashboard:https://public.tableau.com/app/profile/chetanmalviya513/viz/NagarParishadallwarddashboard/Dashboard1
+🔗 Live Tableau Dashboard: https://public.tableau.com/app/profile/chetanmalviya513/viz/NagarParishadallwarddashboard/Dashboard1
 
 💡 Impact & Insights
 Urban Planning: Informed development strategy for high-density wards like Ward 13 and Ward 1.
